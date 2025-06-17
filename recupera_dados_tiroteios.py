@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 
 # Configurações
-TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Mzg2NiwiZW1haWwiOiJjamNvdXRpbmhvQGdtYWlsLmNvbSIsInJvbGUiOiJVIiwiaWF0IjoxNzUwMTgxNzcwLCJleHAiOjE3NTAxODUzNzB9.viqagl3gk5eFSPPNgpZGI_J8X8Us3cYE7_oTVvtIxp0'
+TOKEN = 'INSERIR_SEU_TOKEN'
 BASE_URL = 'https://api-service.fogocruzado.org.br/api/v2/occurrences'
 HEADERS = {
     'Authorization': f'Bearer {TOKEN}'
